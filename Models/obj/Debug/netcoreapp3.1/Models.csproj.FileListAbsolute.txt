@@ -1,0 +1,8 @@
+C:\Users\Edward\source\repos\ServicioLogin\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\Edward\source\repos\ServicioLogin\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Edward\source\repos\ServicioLogin\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Edward\source\repos\ServicioLogin\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\Edward\source\repos\ServicioLogin\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\Edward\source\repos\ServicioLogin\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\ServicioLogin\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\Edward\source\repos\ServicioLogin\Models\obj\Debug\netcoreapp3.1\Models.pdb
